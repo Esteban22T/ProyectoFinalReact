@@ -1,0 +1,1 @@
+export { ProveedorDashboard } from './components/ProveedorDashboard';
